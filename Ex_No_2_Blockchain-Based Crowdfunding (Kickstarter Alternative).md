@@ -62,7 +62,8 @@ contract Crowdfunding {
 ```
 # Expected Output:
 ```
-![Screenshot 2025-04-16 095444](https://github.com/user-attachments/assets/840658d5-3fa0-4b32-9ff7-17001468f8e1)
+![Screenshot 2025-04-16 095444](https://github.com/user-attachments/assets/4e4e22e4-4090-48fe-aca8-5cd311f6564a)
+![Screenshot 2025-04-16 095704](https://github.com/user-attachments/assets/a1e31716-1ed0-484a-98cc-b8fad8e56248)
 
 
 
@@ -70,7 +71,9 @@ contract Crowdfunding {
 
 # High-Level Overview:
 ```
-![Screenshot 2025-04-16 095704](https://github.com/user-attachments/assets/a41808c7-b0bc-4316-8ecd-7bb1435dedbf)
+Teaches decentralized fundraising.
+
+Avoids fraud by ensuring funds are only transferred if the goal is met.
 ```
 # RESULT: 
  The expected output is completed by the screenshorts 
