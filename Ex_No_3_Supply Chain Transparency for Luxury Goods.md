@@ -1,7 +1,7 @@
 # Ex No: 3 - Supply Chain Transparency for Luxury Goods
-## Name : Prem Kumar G
-## Reg No: 212223230158
-## Date : 24-04-2025
+## Name : L yagnesh kumar reddy
+## Reg No: 212223100024
+## Date : 28-04-2025
 # Aim:
 To develop a smart contract that tracks the supply chain of luxury goods, ensuring authenticity.
 # Algorithm:
